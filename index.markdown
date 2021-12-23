@@ -8,7 +8,7 @@ layout: home
 
 ## Principal Software Engineer
 
-ASOS are growing our engineering leadership capbility and we really want to hear from Women in Tech who are ready for the next step in their career.
+ASOS are growing our engineering leadership capability and we really want to hear from Women in Tech who are ready for the next step in their career. We recognise the world is a small place so location is open for discussion. The roles will operate under the ASOS version of a hybrid working model. 
 
 ### About you
 
