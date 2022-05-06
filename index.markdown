@@ -72,6 +72,4 @@ People are the future of our business and we have really big ideas. We know we n
  
 We are equal! We’re committed to creating an inclusive workforce. We believe in a world where you have the freedom to explore and express yourself without judgement, no matter who you are or where you’re from. Where you value yourself and feel proud of who you are. Where individuality is a source of confidence, because difference makes the world a better place.
 
-## How To Apply
-[Head over to our careers site](https://asos.wd3.myworkdayjobs.com/externalcareers/job/London/Principal-Software-Engineer_JR10327-1) and hit the Apply button. We will get back to you quickly and arrange for a call to discuss the role. 
 
