@@ -8,25 +8,37 @@ layout: home
 
 ## Principal Test Engineer
 
-ASOS are growing our engineering leadership capability and we really want to hear from engineers who are ready for the next step in their career. We recognise the world is a small place so location is open for discussion. The roles will operate under the ASOS version of a hybrid working model. 
+The Principal Test Engineer role is one of the keystones in the delivery of business solutions and the advancement of our technology. As a Principal Engineer, you will work alongside a select group of peers who are collectively responsible for defining the tooling, processes, patterns and practices in use across the ASOS software development life cycle. This is an open-ended task which is less about outlining a one size fits all approach and more about identifying, nurturing and playing to, the strengths of each individual team. The role will operate under the ASOS version of a hybrid working model.
 
 ### About you
 
-You are a seasoned technologist with a depth of practical knowledge in guiding multi-discipline teams through the full delivery lifecycle of complex, large-scale, distributed software systems.
+You are a seasoned technologist with a depth of practical testing knowledge in guiding multi-discipline teams through the full delivery lifecycle of complex, large-scale, distributed software systems.
 
-You have a breadth of exposure to engineering and architecture across technology disciplines. You really understand the unique aspects of software development, automated testing, quality assurance, data handling and integration.
+You have a breadth of exposure to engineering and architecture across technology disciplines and the role that testing plays in that. You really understand the unique aspects of software development, automated testing, quality assurance, data handling and integration.
 
-You take pride in being considered a ‘go-to’ technical authority with deep knowledge and skills. You are happy to help teams and team members to deliver great software, whether through general advice and guidance, hands-on coaching, working through technical designs or as a point of escalation if required.
-
-You are familiar with sync and async design patterns for enterprise integration and data, which are the foundation of reliability and resilience in complex, high-scale systems like ours.
+You take pride in being considered a ‘go-to’ authority on testing with deep knowledge and skills. You are happy to help teams and team members to deliver quality software, whether through general advice and guidance, hands-on coaching, working through technical designs or as a point of escalation if required.
 
 We really want to hear from people who have a passion for producing quality software and systems that are cloud first. We use Microsoft Azure but transferable knowledge of other cloud providers is fine. For us, quality software is designed and built with a test-first mindset, following good software crafting approaches. Our software is built from the ground up with a security and operational readiness mindset. We use automated, repeatable CI/CD pipelines to deploy safely right through to production.
 
 ### About the role
 
-As a Principal Software Engineer your goal is to make engineering - and our engineers - better, every day. You are approachable, collaborative and you actively nurture a diverse and inclusive workplace.
+Work with peers in the Principal group, as well as QAs & Engineers on the ground to identify and implement tools, technologies or working practices which could be leveraged to improve the quality and productivity of ASOS Test Engineering, both at the team level and at the department level.
 
-You work closely with engineering teams to refine their existing development practices, processes and technologies, as well as explore new ones. You help them to overcome technical hurdles of any size or complexity and if needed you will join a team to work on stories and code alongside them. You also work closely with your peers in the Principal Engineering team, to share your innovations and initiatives across Tech and to support others doing the same.
+Take pride in being considered a go to person or technical authority, happy to help teams and individuals in their endeavours to deliver & test software, whether it be in your provision of general guidance and advice, problem solving, discussing and underwriting a technical design, or as a point of escalation in resolving and overcoming the day-to-day challenges of test engineering.
+
+Be a prominent force in defining and driving (while continually refining) good test engineering practices across the whole engineering community, either by honing existing approaches or by recommending new ways of working and subsequently engaging with the appropriate parties, where necessary, to transform new or theoretical approaches into productive test engineering processes.
+
+Work with QAs and software engineering teams to ensure the software being released into Production is of the appropriate standard. Taking accountability for ensuring software is fully tested, is of an acceptable quality, is observable and is always monitored to verify it is reliable and requirements are met.
+
+Establish and maintain an open and collaborative relationship with Lead QAs & Lead Software Engineers and the wider engineering community, to the point where as much as you may be viewed as a figure of technical authority, people treat you as someone they can feel comfortable in sharing their ideas, thoughts and experiences with and are actively encouraged to do so.
+
+Be a versatile and efficient problem solver who is able to bring to bear years of experience and expertise in order to help teams resolve and overcome technical challenges of any size or complexity, to the point where, if the situation and circumstances dictate, you willingly immerse yourself into a team to accelerate problem resolution or provide more general hands-on guidance and direction.
+
+Commit to helping deliver high quality, well tested software and to lead those around you to do the same, by ensuring the people around you are continually challenged, motivated, mentored and supported where necessary.
+
+Develop and foster strong relationships with Business Stakeholders, Platform Leads, Heads of Tech, Engineering Managers and Product Owners/Business Analysts to ensure that the software delivered by teams is tested and reliable enough to meet the requirements of the business
+
+Keep up to date on the industry, seek out and actively promote ideas and techniques in the community, both within ASOS and externally, through blogs, events. Encourage communities to form and drive ideas forward
 
 ### The ASOS Way
 
