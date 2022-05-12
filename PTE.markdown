@@ -8,7 +8,7 @@ layout: home
 
 ## Principal Test Engineer
 
-he Principal Test Engineer role is one of the keystones in the delivery of business solutions and the advancement of our technology. As a Principal Engineer, you will work alongside a small, select group of peers who are collectively responsible for defining the tooling, processes, patterns and practices in use across the ASOS software development life cycle. This is an open-ended task which is less about outlining a one size fits all approach and more about identifying, nurturing and playing to, the strengths of each individual team. The role will operate under the ASOS version of a hybrid working model. 
+The Principal Test Engineer role is one of the keystones in the delivery of business solutions and the advancement of our technology. As a Principal Engineer, you will work alongside a select group of peers who are collectively responsible for defining the tooling, processes, patterns and practices in use across the ASOS software development life cycle. This is an open-ended task which is less about outlining a one size fits all approach and more about identifying, nurturing and playing to, the strengths of each individual team. The role will operate under the ASOS version of a hybrid working model.
 
 ### About you
 
